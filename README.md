@@ -2,9 +2,9 @@
 
 Rarefaction analysis of mutualistic networks in space
 
-### go to the jupyter folder
+### Go to the jupyter folder
 
-### open the html version of the jupyter notebook 
+### Open the html version of the jupyter notebook 
 rarefaction.html
 
 ### Open jupyter notebook terminal 
