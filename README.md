@@ -15,3 +15,4 @@ jupyter nbconvert --to slides rarefaction.ipynb
 jupyter nbconvert rarefaction.ipynb --to slides --post serve
 
 
+[![DOI](https://zenodo.org/badge/408881518.svg)](https://zenodo.org/badge/latestdoi/408881518)
